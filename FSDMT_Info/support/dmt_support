@@ -1,0 +1,68 @@
+{
+ "content": null,
+ "embeds": [
+  {
+   "color": "#416344",
+   "author": {
+    "name": "Discord Staff Information"
+   },
+   "title": "Support Team Information",
+   "description": "Info related to handling tickets or assisting members with their inquiries",
+   "fields": [
+    {
+     "name": "__Rules__",
+     "value": [
+      "> - **If another Support Team member replies to a ticket, don't speak in it unless it's been a few minutes since they posted or they are unsure of an answer.**",
+      "",
+      "> - **Do not provide answers you are not sure of, ask other staff via staff channels to determine the proper answer.**",
+      "",
+      "> - **Avoid casual chatting or going off topic in tickets, if ticket has been handled redirect users to normal chats, and close the ticket.**",
+      "",
+      "> - **Anyone trying to contest a warning/kick/ban or report a staff member must open a Staff Report, not a Support ticket. Normal Support Team members are not allowed to override any moderation actions, in-game or Discord. That job is for IA only.**",
+      "",
+      "> - **You are must post some form of proof with every moderation. This can be a link to a log in ⁠⁠𝖲erver-𝖫og, a screenshot, a link, etc. Please note that if it is a quick moderation, you can always edit the log and add the proof.**",
+      ""
+     ],
+     "inline": false
+    },
+    {
+     "name": "__Who to ping/add in Tickets__:",
+     "value": [
+      "**Videos, Logos, Graphics:** <@!728631165942104066> or Promo Team",
+      "**Giveaways:** <@!222897697550499841> or <@!191275479817256960>",
+      "**Bot Issues** <@!728631165942104066>",
+      "**Staff Applications** <@&1104166647801057380>",
+      "",
+      "-# Management only needs to pinged. You do not have to use /add as they have **Administrator** permissions."
+     ],
+     "inline": false
+    },
+    {
+     "name": "__Ticket Priorities__",
+     "value": [
+      "🔴  **High Priority:** Management or high priority issues (e.g., asset theft, blacklist appeals)",
+      "🟡  **Medium Priority:** Staff Team Lead or medium priority issues (e.g., priority applications, staff punishment concerns, retirements)",
+      "🔵  **Low Priority:** Typically Staff Team Lead issues or low priority issues (e.g., custom role changes)"
+     ],
+     "inline": false
+    }
+   ],
+   "footer": {
+    
+   }
+  }
+ ],
+ "components": [
+  {
+   "type": 1,
+   "components": [
+    {
+     "type": 2,
+     "style": 3,
+     "label": "Ticket Scenarios",
+     "custom_id": "dmt_support-modlogs"
+    }
+   ]
+  }
+ ]
+}

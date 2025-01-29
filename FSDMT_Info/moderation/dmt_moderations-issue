@@ -1,0 +1,65 @@
+{
+ "content": null,
+ "embeds": [
+  {
+   "color": "#416344",
+   "author": {
+    "name": "Discord Staff Information"
+   },
+   "title": "Issuing Moderations",
+   "description": "When to use...",
+   "fields": [
+    {
+     "name": "__?warn aka /warn__",
+     "value": [
+      "- You are only allowed to warn users for the following:",
+      "• Pinging Management",
+      "• Staff disrespect",
+      "• Not listening to staff",
+      "• Breaking any of the https://discord.com/channels/884071312446873650/884412084434120715 *"
+     ],
+     "inline": false
+    },
+    {
+     "name": "__?mute aka /mute__",
+     "value": [
+      "Mutes don't have a set regulation to follow, but should generally be used when:",
+      "• Not listening to staff (verbal warned or warned before)",
+      "• Consistently arguing/instigating arguments"
+     ],
+     "inline": false
+    },
+    {
+     "name": "__?ban aka /ban__",
+     "value": [
+      "- Users should only be banned for the following reasons:",
+      "*• Raiding",
+      "• Starting mass drama",
+      "• Racism/discrimination (based on traits such as gender, race, ethnicity, etc.)",
+      "• IP grabbing.*"
+     ],
+     "inline": false
+    },
+    {
+     "name": "__General Policies to be noted!__",
+     "value": [
+      "*Staff Members can NOT be moderated, this includes:*",
+      "- <@&1102290947498315848>",
+      "- <@&884079211323736086>",
+      "<@&1204096991152570429>",
+      "*No set Regulations yet:*",
+      "- <@&1253834772740837417>",
+      "",
+      "**Use https://discord.com/channels/884071312446873650/884412084434120715 as your guideline as well.**",
+      "**We do not moderate DM Advertising (staff members should be reported)**"
+     ],
+     "inline": false
+    }
+   ],
+   "footer": {
+    
+   }
+  }
+ ],
+ "components": null
+}

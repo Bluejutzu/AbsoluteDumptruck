@@ -1,0 +1,36 @@
+{
+ "content": null,
+ "embeds": [
+  {
+   "title": "Expectations of Discord Staff",
+   "thumbnail": {
+    
+   },
+   "fields": [],
+   "author": {
+    "name": "Discord Staff Information"
+   },
+   "description": [
+    "What we expect of you as a member of the DMT.",
+    "",
+    "> __**Respect**__",
+    "Showing respect to people is what we want you to do. It gives FSRP and the Discord Moderation Team a good look.",
+    "",
+    "> __**Integrity**__",
+    "When no one is looking at you, always do the right thing, because this way we know we can trust you.",
+    "",
+    "> __**Effort**__",
+    "We want you to show effort. When you're on the Discord Moderation Team, we expect you to be active, responsible and uphold the rules at all costs.",
+    "",
+    "> __**Leaking**__",
+    "There should be absolutely no leaking. Anything sent within staff channels (channels that the public cannot view) should not be sent elsewhere. This includes but is not limited to:",
+    "- Chats within staff channels, ",
+    "- Staff Guides, ",
+    "- Sneak peaks,",
+    "- Information posted in staff announcement channels. Anyone who leaks is subject to a termination and a **permanent** blacklist."
+   ],
+   "color": "#416344"
+  }
+ ],
+ "components": []
+}

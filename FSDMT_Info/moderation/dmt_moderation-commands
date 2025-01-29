@@ -1,0 +1,35 @@
+{
+ "content": null,
+ "embeds": [
+  {
+   "title": "Moderation Commands",
+   "fields": [],
+   "description": [
+    "> ```?warn <user_id> <Reasoning & Proof> ``` -- *Warn a User*",
+    "You can warn users for:",
+    "- Failing to abide to Verbal warnings",
+    "- Mild Rule violations (was being disrespectful once)",
+    "",
+    "> ```?mute <user_id> <duration> <Reasoning & Proof> ```-- *Mute a user for set duration (e.g. 30m, 1h, 1d).*",
+    "",
+    "> ```?ban <user_id> <duration> <Reasoning & Proof> ```-- *Ban a user for a set duration (e.g. 5d, 1w, 4w). Simply use ?ban <user_id> if the ban is permanent. **<@&890606273924587641>+ exclusive command**.*",
+    "",
+    "**If you forgot to add a reason or proof then use**",
+    "> ```?reason <case> <Reasoning & Proof> | Proof: <message link to the photo proof>```",
+    "",
+    "**If you forgot to add a duration to a mute then use**",
+    "> ```?duration <case> <duration>```",
+    "",
+    "-# In the <user_id> paramater you can also use mentions <@username>, e.g <@!953708302058012702>",
+    "-# Every command mentioned can also be used with a **slash** /: `/warn`, `/mute` & `/ban`",
+    "❗***Warning, Muting or Banning can very much vary from situation to situation*** ❗",
+    "## Consult with other Moderators if you are unsure about punishment!"
+   ],
+   "author": {
+    "name": "Discord Staff Information"
+   },
+   "color": "#416344"
+  }
+ ],
+ "components": null
+}
