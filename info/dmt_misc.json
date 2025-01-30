@@ -1,0 +1,23 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": "#416344",
+      "title": "Miscellaneous Information",
+      "description": [
+        "Any Information that may improve your knowledge on your duties.",
+        "",
+        " - **[BOLO Informations](https://discord.com/channels/884071312446873650/908098719705100328/1313577287135920148)**",
+        "- **[When to disclose BOLO info](https://discord.com/channels/884071312446873650/908098719705100328/1251176069344526438)**",
+        "- **[Copy Paste slash commands](https://discord.com/channels/884071312446873650/908098719705100328/1230942781892071544)**",
+        "- **[Discord Moderation Team Handbook (1.0)](https://drive.google.com/file/d/1nP2gcNORXC8eSARZrYqIRsoP92McjuFe/view)** (outdated)",
+        "- **[Old Server FAQ](https://discord.com/channels/884071312446873650/908098719705100328/1156771597865193544)** (outdated)"
+      ],
+      "author": {
+        "name": "Discord Staff Information"
+      },
+      "fields": null
+    }
+  ],
+  "components": null
+}
